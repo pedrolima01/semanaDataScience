@@ -1,0 +1,23 @@
+---
+title: "Análise da base RAIS"
+description: |
+  Neste post faremos a análise da base RAIS.
+author:
+  - name: Pedro Lima
+    url: https://example.com/norajones
+date: 2022-02-07
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Este é meu primeiro projeto. 
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
