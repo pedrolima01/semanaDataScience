@@ -1,0 +1,1 @@
+Chegou ontem a noite a convocação para um concurso que havia feito a algum tempo, assinatura do contrato de admissão já nesta sexta-feira, vou pedir desligamento do BB
